@@ -1,0 +1,14 @@
+transformers==4.55.0
+vllm==0.10.1
+trl==0.9.6
+fastapi>=0.110.0
+uvicorn>=0.29.0
+requests>=2.31.0
+human-eval>=0.3.0
+datasets
+safetensors
+accelerate==0.27.2
+peft==0.11.1
+bitsandbytes==0.45.2
+triton==3.3.1
+gurobipy

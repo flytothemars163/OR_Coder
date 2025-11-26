@@ -47,7 +47,7 @@ Large language models have shown remarkable capabilities in code generation, but
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/OR-Coder.git
+git clone https://github.com/flytothemars163/OR-Coder.git
 cd OR-Coder
 
 # Create conda environment
